@@ -759,7 +759,7 @@ nav ul li {
 }
 
 #waystogive {
-  background: url("../img/NeoSound-Logo-Horizontal-White-BG-Full-Color-001\ copy.jpg") no-repeat center center;
+  background: url("../img/university-of-denver\ copy.jpg") no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -770,8 +770,8 @@ nav ul li {
 
 }
 
-#shoptosupport {
-  background: url("../img/NeoSound-Logo-Horizontal-White-BG-Full-Color-001\ copy.jpg") no-repeat center center;
+#casino-card {
+  background: url("../img/wild-card-casino-blackhawk-logo.png") no-repeat center center;
   -webkit-background-size: auto;
   -moz-background-size: auto;
   -o-background-size: auto;
@@ -783,7 +783,7 @@ nav ul li {
 }
 
 #sharecard {
-  background: url("../img/NeoSound-Logo-Horizontal-White-BG-Full-Color-001\ copy.jpg") no-repeat center center;
+  background: url("../img/land-of-the-free-foundation-logo") no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -806,8 +806,8 @@ nav ul li {
 
 }
 
-#volunteercard {
-  background: url("../img/NeoSound-Logo-Horizontal-White-BG-Full-Color-001\ copy.jpg") no-repeat center center;
+#foundations-card {
+  background: url("../img/land-of-the-free-foundation-logo") no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -828,8 +828,8 @@ nav ul li {
   border-style: groove;
 
 }
-#giftregistrycard {
-  background: url("../img/NeoSound-Logo-Horizontal-White-BG-Full-Color-001\ copy.jpg") no-repeat center center;
+#realestate-card {
+  background: url("../img/realestate-gifts-mm.png") no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -839,44 +839,7 @@ nav ul li {
   border-style: groove;
 
 }
-#corporatecard {
-  background: url("../img/NeoSound-Logo-Horizontal-White-BG-Full-Color-001\ copy.jpg") no-repeat center center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  height: 400px;
-  /* opacity: 0.90; */
 
-}
-
-#roski {
-  background: url("../img/ed.jpg") no-repeat center center;
-  -webkit-background-size: contain;
-  -moz-background-size: contain;
-  -o-background-size: contain;
-  background-size: contain;
-  height: 350px;
-  opacity: 0.90;
-}
-#valley{
-  background: url("http://www.majesticrealty.com/wp-content/uploads/15-Valley_Kent-Medium-251x341.jpg") no-repeat center center;
-  -webkit-background-size: contain;
-  -moz-background-size: contain;
-  -o-background-size: contain;
-  background-size: contain;
-  height: 350px;
-  /* opacity: 0.90; */
-}
-#semcken {
-  background: url("http://www.majesticrealty.com/wp-content/uploads/15-Semcken_John1-251x341.jpg") no-repeat center center;
-  -webkit-background-size: contain;
-  -moz-background-size: contain;
-  -o-background-size: contain;
-  background-size: contain;
-  height: 350px;
-  /* opacity: 0.90; */
-}
 
 #foundationdinnercard {
 background: url("../img/NeoSound-Logo-Horizontal-White-BG-Full-Color-001\ copy.jpg") no-repeat center center;
