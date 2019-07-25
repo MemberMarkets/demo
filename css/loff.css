@@ -725,7 +725,7 @@ nav ul li {
 
 
 #yourElement {
-    background: url("https://cdn.pixabay.com/photo/2014/07/03/20/24/dad-383207_1280.jpg") no-repeat center center;
+    background: url("../img/teamwork-chant.jpg") no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -736,7 +736,7 @@ nav ul li {
 }
 
 #health {
-  background: url("https://cdn.pixabay.com/photo/2018/05/28/16/29/sport-3436358_1280.jpg") no-repeat center center;
+  background: url("../img/best-incentives-mm.jpg") no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -747,7 +747,7 @@ nav ul li {
 }
 
 #knowledgecard {
-  background: url("https://cdn.pixabay.com/photo/2015/05/04/14/40/parade-752467_960_720.jpg") no-repeat center center;
+  background: url("../img/teamwork-chant.jpg") no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
