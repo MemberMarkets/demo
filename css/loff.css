@@ -735,7 +735,7 @@ nav ul li {
 
 }
 
-#health {
+#proven-practices-home {
   background: url("https://cdn.pixabay.com/photo/2013/03/22/06/11/personal-95714_960_720.jpg") no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -743,7 +743,6 @@ nav ul li {
   background-size: cover;
   height: 400px;
   /* opacity: 0.90; */
-  /* https://cdn.pixabay.com/photo/2018/05/28/16/29/sport-3436358_1280.jpg */
 }
 
 #knowledgecard {
