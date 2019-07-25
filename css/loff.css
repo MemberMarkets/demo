@@ -725,35 +725,35 @@ nav ul li {
 
 
 #yourElement {
-    background: url("../img/teamwork-chant.jpg") no-repeat center center;
+    background: url("https://cdn.pixabay.com/photo/2017/01/14/10/56/men-1979261_960_720.jpg") no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
     height: 400px;
-    opacity: 0.90;
+    /* opacity: 0.90; */
 
 }
 
 #health {
-  background: url("../img/best-incentives-mm.jpg") no-repeat center center;
+  background: url("https://cdn.pixabay.com/photo/2013/03/22/06/11/personal-95714_960_720.jpg") no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   height: 400px;
-  opacity: 0.90;
+  /* opacity: 0.90; */
   /* https://cdn.pixabay.com/photo/2018/05/28/16/29/sport-3436358_1280.jpg */
 }
 
 #knowledgecard {
-  background: url("../img/teamwork-chant.jpg") no-repeat center center;
+  background: url("https://cdn.pixabay.com/photo/2016/03/09/09/22/workplace-1245776_960_720.jpg") no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   height: 400px;
-  opacity: 0.90;
+  /* opacity: 0.90; */
 
 
 }
@@ -765,7 +765,8 @@ nav ul li {
   -o-background-size: cover;
   background-size: cover;
   height: 400px;
-  opacity: 0.90;
+  /* opacity: 0.90; */
+  border-style: groove;
 
 }
 
@@ -776,7 +777,7 @@ nav ul li {
   -o-background-size: auto;
   background-size: contain;
   height: 400px;
-  opacity: 0.90;
+  /* opacity: 0.90; */
   border-style: groove;
 
 }
@@ -788,7 +789,9 @@ nav ul li {
   -o-background-size: cover;
   background-size: cover;
   height: 400px;
-  opacity: 0.90;
+  /* opacity: 0.90; */
+  border-style: groove;
+
 }
 
 #testcard {
@@ -798,7 +801,9 @@ nav ul li {
   -o-background-size: cover;
   background-size: cover;
   height: 400px;
-  opacity: 0.90;
+  /* opacity: 0.90; */
+  border-style: groove;
+
 }
 
 #volunteercard {
@@ -808,7 +813,9 @@ nav ul li {
   -o-background-size: cover;
   background-size: cover;
   height: 400px;
-  opacity: 0.90;
+  /* opacity: 0.90; */
+  border-style: groove;
+
 }
 #golfclassiccard {
   background: url("../img/NeoSound-Logo-Horizontal-White-BG-Full-Color-001\ copy.jpg") no-repeat center center;
@@ -817,7 +824,9 @@ nav ul li {
   -o-background-size: cover;
   background-size: cover;
   height: 400px;
-  opacity: 0.90;
+  /* opacity: 0.90; */
+  border-style: groove;
+
 }
 #giftregistrycard {
   background: url("../img/NeoSound-Logo-Horizontal-White-BG-Full-Color-001\ copy.jpg") no-repeat center center;
@@ -826,7 +835,9 @@ nav ul li {
   -o-background-size: cover;
   background-size: cover;
   height: 400px;
-  opacity: 0.90;
+  /* opacity: 0.90; */
+  border-style: groove;
+
 }
 #corporatecard {
   background: url("../img/NeoSound-Logo-Horizontal-White-BG-Full-Color-001\ copy.jpg") no-repeat center center;
@@ -835,7 +846,7 @@ nav ul li {
   -o-background-size: cover;
   background-size: cover;
   height: 400px;
-  opacity: 0.90;
+  /* opacity: 0.90; */
 
 }
 
@@ -855,7 +866,7 @@ nav ul li {
   -o-background-size: contain;
   background-size: contain;
   height: 350px;
-  opacity: 0.90;
+  /* opacity: 0.90; */
 }
 #semcken {
   background: url("http://www.majesticrealty.com/wp-content/uploads/15-Semcken_John1-251x341.jpg") no-repeat center center;
@@ -864,7 +875,7 @@ nav ul li {
   -o-background-size: contain;
   background-size: contain;
   height: 350px;
-  opacity: 0.90;
+  /* opacity: 0.90; */
 }
 
 #foundationdinnercard {
@@ -874,7 +885,9 @@ background: url("../img/NeoSound-Logo-Horizontal-White-BG-Full-Color-001\ copy.j
   -o-background-size: cover;
   background-size: cover;
   height: 400px;
-  opacity: 0.90;
+  /* opacity: 0.90; */
+  border-style: groove;
+
 }
 /* #secondcardcontent {
   text-align: end;
