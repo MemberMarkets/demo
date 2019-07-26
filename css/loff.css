@@ -13,12 +13,16 @@ p {
   font-size: 20px;
 }
 
+#b-white {
+  color: #fff;
+}
+
 #jumbotron-w {
   background-color: white;
 
 }
 .jumbotron {
-  margin-top: 16px;
+  margin-top: 30px;
   padding: 0rem 0rem;
   background-color: white;
 
@@ -39,6 +43,82 @@ p {
   -o-background-size: cover;
   background-size: cover;
   transition: transform .4s ease-in-out,-webkit-transform .4s ease-in-out;
+}
+
+.dropdown:hover>.dropdown-menu {
+  display: block;
+
+}
+
+.nav-item {
+  font-size: 1rem;
+  font: bold;
+  color: #fff;
+
+}
+
+
+.nav-item:hover {
+  background-color: #0096d6;
+}
+
+#navbarDropdown:hover {
+  color: #fff;
+}
+
+.card:hover .image {
+  opacity: 0.3;
+}
+
+.btn-group-lg>.btn,
+.btn-lg {
+  padding: .5rem 1rem;
+  font-size: 1.25rem;
+  line-height: 1.5;
+  border-radius: 0rem;
+}
+
+p {
+  font-size: 20px;
+}
+
+.carousel-slide {
+  position: top;
+  top: 0;
+  left: 0;
+}
+
+.fish {
+  position: absolute;
+  top: -50px;
+  left: 35%;
+}
+
+@media (max-width: 500px) {
+  .fish {
+    position: absolute;
+    top: -50px;
+    left: 25%;
+    width: 50%;
+    height: 35%;
+  }
+}
+
+#blue-nav {
+
+  background: #0c689f;
+  background: -moz-linear-gradient(top, #0096d6, #1b2f5b);
+  background: -webkit-linear-gradient(top, #0096d6, #1b2f5b);
+  background: -o-linear-gradient(top, #0096d6, #1b2f5b);
+  background: -ms-linear-gradient(top, #0096d6, #1b2f5b);
+  background: linear-gradient(to bottom, #0096d6, #1b2f5b);
+  height: 60px;
+  border-top: 2px solid #000000;
+  clear: both;
+}
+
+b {
+  color: #fff;
 }
 /* .carousel-item .img-fluid {
   width:100%;
@@ -397,10 +477,10 @@ nav ul li {
   padding: 0.5rem 0;
   margin: 0.125rem 0 0;
   font-size: 1rem;
-  color: #212529;
+  color: #fff;
   text-align: left;
   list-style: none;
-  background-color: #dc3545;
+  background-color: #0c689f;
   background-clip: padding-box;
   border: 1px solid rgba(0, 0, 0, 0.15);
   border-radius: 0rem;
@@ -430,7 +510,7 @@ nav ul li {
   color: #fff;
   text-align: inherit;
   white-space: nowrap;
-  background-color: #dc3545;
+  background-color: #0c689f;
   border: 0;
 }
 
